@@ -1,0 +1,24 @@
+# RStudio files
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+
+# Markdown content
+cache/
+figure/
+README_cache/
+
+# TeX files
+*.log
+*-concordance.tex
+*.synctex.gz
+*.bbl
+*.tex
+
+# Large CSV's
+profiles*.csv
+essays*.csv
+
+# Other files
+.DS_Store
